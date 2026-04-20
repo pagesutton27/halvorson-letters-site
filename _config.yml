@@ -34,8 +34,8 @@ author: CollectionBuilder
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: https://raw.githubusercontent.com/pagesutton27/Halvorson-Letters-/main/metadata.csv
-objects: https://raw.githubusercontent.com/pagesutton27/Halvorson-Letters-/main/objects/
+metadata: metadata
+object_location: objects
 
 ##########
 # Site/Organization Branding 
